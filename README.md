@@ -14,7 +14,7 @@ Here are a few of the most impressive projects I've built in my free time:
 
 These are some of my contributions outside of the workplace that have been used in the real world:
 
-- **[archipelago.js](https://github.com/airbreather/archipelago.js/pull/5) (open source):** Implemented IndexedDB caching in browser environments for a JS library abstracting the Archipelago network protocol.
+- **[archipelago.js](https://github.com/airbreather/archipelago.js/pull/5) (open source):** I implemented IndexedDB caching in browser environments for a JS library abstracting the Archipelago network protocol.
 - **[Better Canvas Calendar](https://gist.github.com/uthbees/6a46a1b2f971c782baf1a6a46eeb6198):** A userscript that I used daily in college to help stay organized. It increases contrast for unfinished assignments in Canvas's calendar view and allows marking assignments as done manually by double-clicking.
 - **[Minutes Limits](https://gist.github.com/uthbees/4795ac3292dd4cc70a1dc92f7c964e3a):** A userscript used daily by family, built to meet specific needs when paid solutions weren't working. It provides parental controls for the browser in the form of time limits and YouTube channel whitelisting.
 
