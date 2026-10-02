@@ -8,7 +8,7 @@ Here are a few of the most impressive projects I've built in my free time:
 
 - **[2D Map Engine](https://github.com/uthbees/simulation):** A procedural map generation and 2D tile rendering engine made from scratch.
 - **[Kotlin Chess](https://github.com/uthbees/kotlin-chess):** A native Kotlin chess application built with Jetpack Compose, featuring complete move validation and an interactive board UI.
-- **[SimplePaint](https://github.com/uthbees/simplepaint):** A high-performance drawing app balancing powerful features with an easy-to-use UI.
+- **[SimplePaint](https://github.com/uthbees/simplepaint):** (in development) A high-performance drawing app balancing powerful features with an easy-to-use UI.
 
 ### Used in the Real World
 
