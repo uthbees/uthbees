@@ -4,19 +4,19 @@ I'm a software engineer focused on reliability and maintainable systems. My prim
 
 ### Featured Projects
 
-Here are a few of the more impressive projects I've built in my free time:
+Here are a few of the projects I've built in my free time:
 
-- **[2D Map Engine](https://github.com/uthbees/simulation):** A procedural map generation and 2D tile rendering engine made from scratch.
-- **[Kotlin Chess](https://github.com/uthbees/kotlin-chess):** A native Kotlin chess application built with Jetpack Compose, featuring complete move validation and an interactive board UI.
-- **[SimplePaint](https://github.com/uthbees/simplepaint):** (in development) A high-performance drawing app balancing powerful features with an easy-to-use UI.
+- **[2D Map Engine](https://github.com/uthbees/simulation)**: A procedural map generation and 2D tile rendering engine made from scratch.
+- **[Kotlin Chess](https://github.com/uthbees/kotlin-chess)**: A native Kotlin chess application built with Jetpack Compose, featuring complete move validation and an interactive board UI.
+- **[SimplePaint](https://github.com/uthbees/simplepaint)**: (in development) A Rust drawing app balancing powerful features with an easy-to-use UI.
 
 ### Used in the Real World
 
 These are some of my contributions outside of the workplace that have been used in the real world:
 
-- **[archipelago.js](https://github.com/airbreather/archipelago.js/pull/5) (open source):** I implemented IndexedDB caching in browser environments for a JS library abstracting the Archipelago network protocol.
-- **[Better Canvas Calendar](https://gist.github.com/uthbees/6a46a1b2f971c782baf1a6a46eeb6198):** A userscript that I used daily in college to help stay organized. It increases contrast for unfinished assignments in Canvas's calendar view and allows marking assignments as done manually by double-clicking.
-- **[Minutes Limits](https://gist.github.com/uthbees/4795ac3292dd4cc70a1dc92f7c964e3a):** A userscript used daily by family, built to meet specific needs when paid solutions weren't working. It provides parental controls for the browser in the form of time limits and YouTube channel whitelisting.
+- **[archipelago.js](https://github.com/airbreather/archipelago.js/pull/5)** (open source): I implemented IndexedDB caching in browser environments for a JS library abstracting the Archipelago network protocol.
+- **[Better Canvas Calendar](https://gist.github.com/uthbees/6a46a1b2f971c782baf1a6a46eeb6198)**: A userscript that I used daily in college to help stay organized. It increases contrast for unfinished assignments in Canvas's calendar view and allows marking assignments as done manually by double-clicking.
+- **[Minutes Limits](https://gist.github.com/uthbees/4795ac3292dd4cc70a1dc92f7c964e3a)**: A userscript used daily by family, built to meet specific needs when paid solutions weren't working. It provides parental controls for the browser in the form of time limits and YouTube channel whitelisting.
 
 ### Technologies and Tools
 
